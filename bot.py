@@ -8,7 +8,6 @@ import user_agent
 import mediafire
 import urllib3.util
 import uploaderclass
-import nanogram.bot
 import functools
 from functools import partial
 from concurrent.futures import ThreadPoolExecutor
