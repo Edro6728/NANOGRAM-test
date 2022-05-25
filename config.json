@@ -1,9 +1,9 @@
 {
     "limit": 300,
-    "user" : "",
-    "pwd"  : "",
+    "user" : "jose.sierra",
+    "pwd"  : "Jordan#23*",
     "server" : {
-        "url": "moodle.uclv.edu.cu/",
+        "url": "eva.uo.edu.cu/",
         "scheme": "https",
         "use_image": true,
         "repo_id": 4
