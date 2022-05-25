@@ -6,5 +6,4 @@ validators
 pyasn1
 pyopenssl
 certifi
-nanogram
 requests_toolbelt
