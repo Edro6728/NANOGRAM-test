@@ -27,7 +27,6 @@ actual = None
 __bot__ = aiogram.Bot(bottoken)
 dp = aiogram.Dispatcher(__bot__)
 exc = ThreadPoolExecutor(max_workers=1)
-cache: dict[int, int] = {1047046816: 5000}
 executor = ThreadPoolExecutor(max_workers=2)
 
 
