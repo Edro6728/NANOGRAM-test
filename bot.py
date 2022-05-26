@@ -14,8 +14,6 @@ from concurrent.futures import ThreadPoolExecutor
 
 __version__ = '0.4'
 bottoken = open("token", "r").read().strip("\r\n")
-bot = nanogram.bot.Bot(bottoken, verifyToken=False)
-#  pll = nanogram.api.PollingUpdater(bot)
 #  pll.clearUpdates()
 admins = [916354580, 5258763564] 
 cfgs = json.loads(open("config.json").read())
